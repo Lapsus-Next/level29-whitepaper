@@ -1,4 +1,5 @@
 ---
+sidebar_label: "🛡️Clan System"
 sidebar_position: 2
 ---
 

@@ -1,4 +1,5 @@
 ---
+sidebar_label: "⚔️PvP & Clan vs Clan System"
 sidebar_position: 4
 ---
 

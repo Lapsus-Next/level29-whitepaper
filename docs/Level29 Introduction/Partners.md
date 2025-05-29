@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: "Partners & Traction"
+sidebar_label: "🤝Partners & Traction"
 title: Our Valued Partners & Early Traction
 ---
 

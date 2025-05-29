@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label: "Team"
+sidebar_label: "🧠Team"
 title: Meet the Team
 ---
 
