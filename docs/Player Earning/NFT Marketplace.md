@@ -1,4 +1,9 @@
-# NFT Marketplace
+---
+sidebar_position: 1
+sidebar_label: "💎NFT Marketplace"
+---
+
+# 💎 NFT Marketplace
 
 ### In Game NFT MArketplace will be live soon with powered by Stream NFT
 

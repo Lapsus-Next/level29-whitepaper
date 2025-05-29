@@ -1,5 +1,5 @@
 ---
-sidebar_label: "LEVEL (LVL) Token Utility"
+sidebar_label: "💰LEVEL (LVL) Token Utility"
 sidebar_position: 1
 ---
 

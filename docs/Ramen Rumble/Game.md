@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Ramen Rumble Game"
+sidebar_label: "🔥Ramen Rumble Game"
 sidebar_position: 1
 ---
 
@@ -82,4 +82,4 @@ We have build seamless methods for you to download and install the game
 - It will automatically create wallet for you and bind it with your google play account.
 - Once wallet is create, claim your free NFT's.
 - You can access your wallet info in your profile section.
-- You can access yhour free NFT's in Weapon section.
+- You can access your free NFT's in Weapon section.

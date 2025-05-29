@@ -1,4 +1,5 @@
 ---
+sidebar_label: "👋Welcome to Level29 Games"
 sidebar_position: 1
 ---
 

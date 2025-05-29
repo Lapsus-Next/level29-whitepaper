@@ -1,3 +1,8 @@
+---
+sidebar_label: "✨Other Unique Features"
+sidebar_position: 6
+---
+
 ## ✨ Other Unique Features
 
 Ramen Rumble is designed to be **easy to pick up, but hard to master**.

@@ -1,4 +1,5 @@
 ---
+sidebar_label: "🧟Monsters & Breeding"
 sidebar_position: 3
 ---
 

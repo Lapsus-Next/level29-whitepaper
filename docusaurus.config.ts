@@ -77,7 +77,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
 
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/socialcard.jpg",
     navbar: {
       title: "Level29 Games",
       logo: {
