@@ -71,6 +71,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
+
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Level29 Games",
