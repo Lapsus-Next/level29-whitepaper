@@ -47,7 +47,7 @@ Signup for **early access** to get exclusive rewards. Signup on [Website](https:
 
 ## 📱 Platform Availability
 
-- **Android**: Available now
+- **Android**: Available for alpha testers now
 - **iOS**: Coming soon
 
 ## 🧩 NFTs and Token Economy
