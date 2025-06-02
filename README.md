@@ -1,41 +1,9 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This is whitepaper for Level29 Games.
 
-## Installation
+At Level29 Games, we’re creating a new standard for gaming by combining AI-driven design, immersive storytelling, and true asset ownership through blockchain.
 
-```bash
-yarn
-```
+Our game design allows even web2 players to onboard easily. Our first title, Ramen Rumble, blends fun gameplay with innovative features like PvP, clan-building, and monster breeding, while allowing players to own and trade in-game assets with real value.
 
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+We're not just making games—we’re building a connected gaming ecosystem where players drive the economy.
