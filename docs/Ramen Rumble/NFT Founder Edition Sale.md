@@ -40,8 +40,8 @@ Yes, it’s OP—but only for those who believed early.
 | Detail                  | Info                              |
 | ----------------------- | --------------------------------- |
 | 🎟️ Total Supply         | 500 NFTs                          |
-| 💰 Public Price         | $120                              |
-| 🧾 Whitelist Price      | $100                              |
+| 💰 Public Price         | **To Be Announced**               |
+| 🧾 Whitelist Price      | **To Be Announced** (20% off)     |
 | 📆 Launch Date          | **To Be Announced**               |
 | ⏳ Sale Duration        | Limited Time Only                 |
 | 🛠️ Minting Platform     | [Opensea](https://opensea.io)     |
