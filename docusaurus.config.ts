@@ -36,17 +36,6 @@ const config: Config = {
     locales: ["en"],
   },
 
-  plugins: [
-    [
-      "posthog-docusaurus",
-      {
-        apiKey: "phc_FRfVXejYPJSYRAwV7c58QFrraLgGf2hWPuwlWM2FG6N",
-        appUrl: "https://us.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
-        enableInDevelopment: false, // optional
-      },
-    ],
-  ],
-
   presets: [
     [
       "classic",
@@ -77,6 +66,17 @@ const config: Config = {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      "posthog-docusaurus",
+      {
+        apiKey: "phc_FRfVXejYPJSYRAwV7c58QFrraLgGf2hWPuwlWM2FG6N",
+        appUrl: "https://us.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
+        enableInDevelopment: false, // optional
+      },
     ],
   ],
 
