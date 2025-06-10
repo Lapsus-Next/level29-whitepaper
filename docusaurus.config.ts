@@ -110,51 +110,51 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Level29 Whitepaper",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Website",
-              href: "https://level29.games/",
-            },
-            {
-              label: "Discord",
-              href: "https://discord.com/invite/K4KDqC4mD8",
-            },
-            {
-              label: "X",
-              href: "https://x.com/RamenRumblegame",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            // {
-            //   label: "Blog",
-            //   to: "/blog",
-            // },
-            {
-              label: "GitHub",
-              href: "https://github.com/Lapsus-Next/",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Level29 Games.`,
-    },
+    // footer: {
+    //   style: "dark",
+    //   links: [
+    //     {
+    //       title: "Docs",
+    //       items: [
+    //         {
+    //           label: "Level29 Whitepaper",
+    //           to: "/docs/intro",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "Community",
+    //       items: [
+    //         {
+    //           label: "Website",
+    //           href: "https://level29.games/",
+    //         },
+    //         {
+    //           label: "Discord",
+    //           href: "https://discord.com/invite/K4KDqC4mD8",
+    //         },
+    //         {
+    //           label: "X",
+    //           href: "https://x.com/RamenRumblegame",
+    //         },
+    //       ],
+    //     },
+    //     {
+    //       title: "More",
+    //       items: [
+    //         // {
+    //         //   label: "Blog",
+    //         //   to: "/blog",
+    //         // },
+    //         {
+    //           label: "GitHub",
+    //           href: "https://github.com/Lapsus-Next/",
+    //         },
+    //       ],
+    //     },
+    //   ],
+    //   copyright: `Copyright © ${new Date().getFullYear()} Level29 Games.`,
+    // },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
