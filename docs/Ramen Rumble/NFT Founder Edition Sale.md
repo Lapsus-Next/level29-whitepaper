@@ -37,16 +37,18 @@ Yes, it’s OP—but only for those who believed early.
 
 ## 🗓️ Launch Details
 
-| Detail                  | Info                              |
-| ----------------------- | --------------------------------- |
-| 🎟️ Total Supply         | 500 NFTs                          |
-| 💰 Public Price         | **To Be Announced**               |
-| 🧾 Whitelist Price      | **To Be Announced** (20% off)     |
-| 📆 Launch Date          | **To Be Announced**               |
-| ⏳ Sale Duration        | Limited Time Only                 |
-| 🛠️ Minting Platform     | [Opensea](https://opensea.io)     |
-| 🔁 Tradable             | Yes – fully on secondary markets  |
-| 🎫 Whitelist & Pre-Sale | Yes – join our Discord to qualify |
+| Detail                  | Info                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| 🎟️ Total Supply         | 500 NFTs                                                                       |
+| 💰 Public Price         | $50                                                                            |
+| 🧾 Whitelist Price      | $30                                                                            |
+| 🧾 GTD Price            | $25                                                                            |
+| 📆 Launch Date          | 6th July 2025                                                                  |
+| 🏛️ Blockchain           | BASE                                                                           |
+| ⏳ Sale Duration        | Limited Time Only                                                              |
+| 🛠️ Minting Platform     | **To Be Announced**                                                            |
+| 🔁 Tradable             | Yes – fully on secondary markets                                               |
+| 🎫 Whitelist & Pre-Sale | Yes – join our [**Discord**](https://discord.com/invite/K4KDqC4mD8) to qualify |
 
 ---
 
@@ -74,7 +76,10 @@ Join our Discord for whitelist access, minting updates, and sneak peeks!
 
 ### 🙋‍♀️ FAQ
 
-**Q: What blockchain is this on?**  
+**Q: What blockchain is this NFT Collection on?**  
+A: We're launching on **BASE**, built for gasless, smooth gameplay.
+
+**Q: What blockchain is this game on?**  
 A: We're launching on **SKALE**, built for gasless, smooth gameplay.
 
 **Q: Can I resell my NFT?**  
