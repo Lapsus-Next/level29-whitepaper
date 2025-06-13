@@ -77,7 +77,7 @@ Join our Discord for whitelist access, minting updates, and sneak peeks!
 ### 🙋‍♀️ FAQ
 
 **Q: What blockchain is this NFT Collection on?**  
-A: We're launching on **BASE**, built for gasless, smooth gameplay.
+A: We're launching on **BASE**.
 
 **Q: What blockchain is this game on?**  
 A: We're launching on **SKALE**, built for gasless, smooth gameplay.
