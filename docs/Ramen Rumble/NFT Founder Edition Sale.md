@@ -22,6 +22,7 @@ Each **Founders Edition NFT** unlocks:
 - 🧠 Access to **DAO & Decision Making** (coming soon)
 - 🚪 **Early Access** to Ramen Rumble + future games
 - 💬 **Founders Role** on our Discord
+- 🎁 **SURPRISE UTILITY** - Accouncing soon on Discord
 
 Yes, it’s OP—but only for those who believed early.
 
