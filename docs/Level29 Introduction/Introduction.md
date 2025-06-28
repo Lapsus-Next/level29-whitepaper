@@ -9,19 +9,19 @@ sidebar_position: 1
 
 ### 🎯 Vision
 
-_To build the most player-centric Web3 gaming studio where strategy, fun, and ownership come together—without friction, wallets, or Web3 jargon._
+_To build the most player-centric Web3 gaming studio where strategy, fun, and **player-led economies** come together—without friction, wallets, or Web3 jargon._
 
 ### 🚀 Mission
 
-_We create games that are actually fun first—designed to challenge, engage, and grow with the player. By blending intuitive mobile gameplay with invisible Web3 infrastructure, we unlock real ownership and community-driven ecosystems that anyone can join, no crypto knowledge needed._
+_We create games that are actually fun first—designed to challenge, engage, and grow with the player. By blending intuitive mobile gameplay with invisible Web3 infrastructure, we’re unlocking a new kind of gaming economy—**owned and driven by the players themselves**. that anyone can join._
 
 ---
 
 ## 💡Our Philosophy: Gameplay First, Web3 Seamlessly Integrated
 
-Most Web3 games have lost the challenge, prioritizing tokens over genuine fun and strategic depth. Level29 Games changes that. We craft **strategy-driven** and **hypercasual mobile experiences** that _feel_ like traditional Web2 games, empowered by invisible Web3 technology. Our focus is on real players, offering challenge, progression, and engagement—without the confusing crypto complexity.
+Most Web3 games have lost the challenge, prioritizing tokens over genuine fun and strategic depth. Level29 Games changes that. We craft **strategy-driven** and **hypercasual mobile experiences** that **_feel_** like traditional Web2 games, empowered by invisible Web3 technology. Our focus is on real players, offering challenge, progression, and engagement—without the confusing crypto complexity.
 
-We're a small but mighty team of 7 with 7 years of combined experience in gaming and blockchain, dedicated to making games **anyone** can play and love.
+We're a small but mighty team of 7 with 7 years of experience in gaming and blockchain, dedicated to making games **anyone** can play and love.
 
 ### Our Games
 

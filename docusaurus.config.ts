@@ -155,10 +155,10 @@ const config: Config = {
     //   ],
     //   copyright: `Copyright © ${new Date().getFullYear()} Level29 Games.`,
     // },
-    prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
-    },
+    // prism: {
+    //   theme: prismThemes.github,
+    //   darkTheme: prismThemes.dracula,
+    // },
   } satisfies Preset.ThemeConfig,
 };
 
