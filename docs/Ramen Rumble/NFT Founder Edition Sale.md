@@ -47,7 +47,7 @@ Yes, it’s OP—but only for those who believed early.
 | 📆 Launch Date          | 6th July 2025                                                                  |
 | 🏛️ Blockchain           | BASE                                                                           |
 | ⏳ Sale Duration        | Limited Time Only                                                              |
-| 🛠️ Minting Platform     | **To Be Announced**                                                            |
+| 🛠️ Minting Platform     | [**Mintify**](https://app.mintify.com/launchpad/ramenrumble)                   |
 | 🔁 Tradable             | Yes – fully on secondary markets                                               |
 | 🎫 Whitelist & Pre-Sale | Yes – join our [**Discord**](https://discord.com/invite/K4KDqC4mD8) to qualify |
 
@@ -84,7 +84,7 @@ A: We're launching on **BASE**.
 A: We're launching on **SKALE**, built for gasless, smooth gameplay.
 
 **Q: Can I resell my NFT?**  
-A: Yes, all NFTs are tradable on OpenSea and other SKALE-supported platforms.
+A: Yes, all NFTs are tradable on Mintify and other BASE-supported platforms.
 
 **Q: Do Founders get early access to future titles?**  
 A: Yes. You'll get early beta invites for every future Level29 title.
