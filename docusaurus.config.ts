@@ -90,7 +90,7 @@ const config: Config = {
 
     image: "img/socialcard.jpg",
     navbar: {
-      title: "Level29 Games",
+      title: "",
       logo: {
         alt: "Logo",
         src: "img/lvl29_logo.png",

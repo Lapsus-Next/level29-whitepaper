@@ -67,9 +67,9 @@ Each game offers unique ways to use LVL, while keeping the ecosystem connected a
 
 ## 👥 Web2 User Experience
 
-We believe in making Web3 invisible. Our onboarding is designed for **zero-friction gameplay**.
+We believe in making game fun and Web3 invisible. Our onboarding is designed for **zero-friction gameplay**.
 
-- **1-tap onboarding**: Players can start without creating a wallet
+- **1-tap onboarding**: Players can start without manually creating a wallet
 - No wallet setup, no crypto barrier—just play and earn
 - Assets and tokens are **securely managed** on the backend
 - Players can withdraw their tokens or NFTs to any **EVM-compatible wallet** anytime

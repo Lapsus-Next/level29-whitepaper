@@ -13,13 +13,13 @@ Level29 Games is proud to collaborate with leading entities and communities acro
 We partner with industry leaders who provide us with the tools, infrastructure, and expertise to build world-class games that seamlessly integrate Web3.
 
 - **SKALE:** As our foundational blockchain platform, SKALE provides the lightning-fast, gas-free transactions crucial for our "invisible blockchain" philosophy, ensuring a smooth and frictionless experience for players.
-- **AppLayer:** Our key distribution and platform partner, AppLayer provides the lightning-fast, 400K TPS transactions, crucial for our " lightening fast and invisible blockchain" philosophy, ensuring a smooth and frictionless experience for players.
+- **AppLayer:** As our another foundational blockchain platform, AppLayer provides the lightning-fast, 400K TPS transactions, crucial for our " lightening fast and invisible blockchain" philosophy, ensuring a smooth and frictionless experience for players.
 - **Unity:** The powerful and versatile game engine that fuels our development, enabling us to create the visually stunning and strategically deep gameplay experiences synonymous with Level29 Games.
 - [**Eidolon:**](https://docs.eidolon.gg/) A pivotal strategic and community partner, Eidolon helps truely achieve the seamless player onboarding and account management with single click. Our combined unique approach allow us to create and onboard users within seconds.
 
 ## 🌎Community Collaborations
 
-Beyond core technology, our strength lies in our community. We have established valuable partnerships with **5+ active gaming and Web3 communities**. These collaborations are vital for:
+Beyond core technology, our strength lies in our community. We have established valuable partnerships with **8+ active gaming and Web3 communities**. These collaborations are vital for:
 
 - **Early Adoption & Feedback:** Providing us with enthusiastic early players and invaluable feedback during development phases.
 - **Organic Growth:** Helping us reach new audiences authentically through trusted channels.
@@ -46,6 +46,6 @@ We are continuously seeking synergistic partnerships that align with our vision 
 
 :::tip
 
-Signup for **early access** to get exclusive rewards. Signup on [Website](https://ramenrumble.com/)
+Signup for **early access** to get exclusive rewards. Signup on **[Website](https://ramenrumble.com/)**
 
 :::
