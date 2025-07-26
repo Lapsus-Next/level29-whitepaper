@@ -24,7 +24,7 @@ Sumedha is the glue between vision and execution, ensuring everything just works
 
 ---
 
-### 📣 Saurabh Sharma – CMO
+### 📣 Saurabh Sharma – CMO, Co-Founder
 
 Marketing mastermind with over 10 years of experience.  
 3X Founder. Author of **8 books**. Built and managed gaming communities of **10,000+ members**.  
@@ -40,11 +40,11 @@ Aman ensures that our ideas don't just stay on paper—they become smooth, scala
 
 ---
 
-### 🎮 Plus 3 more creators
+### 🎮 Plus 2 more creators
 
-We’re a small but mighty team of 7, combining talents in game development, design, blockchain, and storytelling.  
+We’re a small but mighty team of 6, combining talents in game development, design, blockchain, and storytelling.  
 Together, we’re building games we’d actually want to play—and making Web3 disappear into the background.
 
 ---
 
-> We don’t just build for players. We _are_ players. And that’s our biggest advantage.
+> **We don’t just build for players. We _are_ players. And that’s our biggest advantage.**

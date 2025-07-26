@@ -8,11 +8,9 @@ import TabItem from '@theme/TabItem';
 
 # 🔷 Tokenomics
 
-We are building a long-term sustainable economy around the **LEVEL** token.
+We are building a long-term, sustainable economy around the **LEVEL** token — designed to be fair, transparent, and community-first.
 
-Details of token distribution, utility, and emissions are carefully planned to balance gameplay, rewards, and governance.
-
-> 🚧 **Note:** This page is a preview. Full details are coming soon.
+Our launch will follow a **zero premine** model, with no tokens allocated before launch. This ensures a **fair launch**, where everyone starts from the same point and earns tokens through actual participation.
 
 ---
 
@@ -26,88 +24,77 @@ Details of token distribution, utility, and emissions are carefully planned to b
 
 ## 📊 Allocation Overview
 
-Here's a high-level breakdown of how tokens will be distributed:
+| Category                     | Allocation |
+| ---------------------------- | ---------- |
+| Community Rewards            | 25%        |
+| Staking & Holding            | 10%        |
+| Team                         | 15%        |
+| Treasury / Development       | 20%        |
+| Ecosystem Grants             | 10%        |
+| Investors (Seed + Strategic) | 20%        |
 
-| Category              | Allocation |
-| --------------------- | ---------- |
-| Community Rewards     | 40%        |
-| Staking & Holding     | 7%         |
-| Investors             | 20%        |
-| Founders & Team       | 15%        |
-| Advisors              | 3%         |
-| Liquidity & Exchanges | 5%         |
-| Treasury              | 10%        |
+:::note
+This is a preliminary distribution. Final token allocation details will be updated soon based on launch planning and community feedback.
+:::
 
 ---
 
-## 📦 Vesting & Unlock Schedule
+## 🚀 Fair Launch Philosophy
+
+Unlike many Web3 tokens, LEVEL will **not be pre-mined** or sold before launch. All tokens will be distributed gradually through gameplay, staking, community contributions, and strategic funding. No one — not even the core team — receives tokens instantly.
+
+This ensures:
+
+- ✅ No unfair early access
+- ✅ True value driven by community growth
+- ✅ Incentives aligned with long-term vision
+
+---
+
+## 🗓️ Vesting & Unlocks
 
 :::info
-Detailed unlock schedules and cliff periods will be shared closer to the TGE.
+Vesting schedules and cliff periods for each category will be published before launch.
 :::
 
 <details>
-<summary><strong>Click to Preview Vesting Concepts</strong></summary>
+<summary><strong>Key Vesting Principles</strong></summary>
 
-- **Founders & Team:** Long-term commitment with extended vesting (8 years).
-- **Investors:** Strategic unlocks with custom terms per round.
-- **Community & Rewards:** Gradual emissions based on in-game and ecosystem participation.
+- **Team:** Multi-year vesting with a long-term commitment
+- **Investors:** Strategic unlocks, focused on aligned partners
+- **Community Rewards & Grants:** Distributed gradually through activity and participation
+- **Treasury:** Controlled, milestone-based usage for development and stability
 
 </details>
 
 ---
 
-## 📈 Emissions Timeline (Preview)
-
-<Tabs>
-  <TabItem value="preview" label="Preview (Years 1-5)" default>
-
-| Year | Estimated Emission (%) |
-| ---- | ---------------------- |
-| 1    | 32.09%                 |
-| 2    | 15.48%                 |
-| 3    | 11.28%                 |
-| 4    | 9.98%                  |
-| 5    | 8.68%                  |
-
-</TabItem>
-  <TabItem value="note" label="Note">
-
-📌 This is subject to refinement based on final staking and activity models. Stay tuned!
-
-</TabItem>
-</Tabs>
-
----
-
-## 🔒 Circulating at TGE
-
-- Initial circulation: **~6%**
-- Includes investor unlocks and liquidity provisioning
-
----
-
 ## 🛠️ Utility
 
-The LEVEL token will power:
+**LEVEL** tokens will power the ecosystem by enabling:
 
-- In-game rewards
-- Upgrades, clans, PvP access
-- NFT minting & burning
-- Staking & governance
+- In-game rewards and player progression
+- Upgrades, PvP access, clans, and item crafting
+- NFT minting and burning
+- Staking and governance participation
+- Cross-game asset transfers
 
-and much more.
-
-Checkout full token utility [here](../Economy/How%20LVL%20Token%20Works.md)
+🔗 Learn more about utility [here](../Economy/How%20LVL%20Token%20Works.md)
 
 ---
 
-Stay tuned for a detailed token breakdown.
+## 🎮 Initial Distribution
 
-### Full Tokenomics will be live soon
+Since this is a fair launch, the **initial circulating supply at launch will be 0**. Tokens will enter circulation progressively based on player activity, staking, grants, and ecosystem growth.
 
-:::info
+---
 
-Join our discord to stay updated [👉 Join the Ramen Rumble Discord here!](https://discord.com/invite/K4KDqC4mD8)
+## 📢 Stay Updated
 
-:::
+Join our community to stay up-to-date with release timelines, airdrops, and staking announcements:
+
+👉 [Join the Ramen Rumble Discord here!](https://discord.com/invite/K4KDqC4mD8)\*\*
+
+---
+
+More details and documentation will follow soon. We're committed to building transparently and with the community.

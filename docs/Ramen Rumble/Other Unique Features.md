@@ -1,6 +1,6 @@
 ---
 sidebar_label: "✨Other Unique Features"
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 ## ✨ Other Unique Features
