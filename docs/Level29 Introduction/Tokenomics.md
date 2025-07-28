@@ -29,8 +29,7 @@ Our launch will follow a **zero premine** model, with no tokens allocated before
 | Community Rewards            | 25%        |
 | Staking & Holding            | 10%        |
 | Team                         | 15%        |
-| Treasury / Development       | 20%        |
-| Ecosystem Grants             | 10%        |
+| Treasury / Development       | 30%        |
 | Investors (Seed + Strategic) | 20%        |
 
 :::note
