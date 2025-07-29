@@ -6,13 +6,23 @@ sidebar_label: "💰Tokenomics"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# 🔷 Tokenomics
+# 🧩 A New Take on Game Tokenomics: Proof-to-Play
 
-We are building a long-term, sustainable economy around the **LEVEL** token — designed to be fair, transparent, and community-first.
+We’re not just building another game economy — **we're reimagining it.**
 
-Our launch will follow a **zero premine** model, with no tokens allocated before launch. This ensures a **fair launch**, where everyone starts from the same point and earns tokens through actual participation.
+Our tokenomics follow a _Proof-to-Play_ model — a system that rewards players not just for time spent, but for skill, contribution, and value added to the community. This model ensures long-term sustainability, fairness, and true ownership.
 
----
+### 🔁 Core Principles of Proof-to-Play:
+
+- 🧠 **Skill-based rewards:** The more skilled and strategic you are, the more you earn.
+- 🎯 **Play-to-earn, not pay-to-win:** Tokens are **earned through gameplay** not farming..
+- ⚖️ **Zero premine model:** No tokens exist until players generate value in-game — ensuring a fair launch and equal access.
+- 🌍 **100% community-owned supply:** All tokens belong to the players. Devs and teams receive tokens only when the community uses them.
+- 🏆 **Engagement and impact driven:** Contributions to community building, PvP victories, creative input, and high-level achievements are rewarded.
+- 💬 **Dynamic allocation:** Ecosystem rewards adapt based on player activity, ensuring long-term balance and evolution.
+- 🧩 **Proof of participation:** Active players — not idle holders — drive the economy.
+
+This model makes token distribution **fair, demand-driven**, and **value-aligned**, turning players into stakeholders and contributors rather than just consumers.
 
 ## 💰 Total Supply
 
