@@ -33,10 +33,10 @@ Our launch will follow a **zero premine** model, with no tokens allocated before
 | Investors (Seed + Strategic) | 20%        |
 
 :::note
-This is a preliminary distribution. Final token allocation details will be updated soon based on launch planning and community feedback.
-:::
+This is a **preliminary distribution**. Final token allocation details will be updated soon based on launch planning and community feedback.
 
----
+🟡 **Note:** 100% of tokens belong to the community from the start. Allocations to team, treasury, investors, etc. are only received _when the community spends (sinks)_ their tokens inside the game or ecosystem. No one, including the team, receives upfront tokens.
+:::
 
 ## 🚀 Fair Launch Philosophy
 
