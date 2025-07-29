@@ -6,13 +6,13 @@ sidebar_label: "💰Tokenomics"
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# 🧩 A New Take on Game Tokenomics: Proof-to-Play
+# 🧩 A New Take on Game Tokenomics: Proof-of-Play
 
 We’re not just building another game economy — **we're reimagining it.**
 
-Our tokenomics follow a _Proof-to-Play_ model — a system that rewards players not just for time spent, but for skill, contribution, and value added to the community. This model ensures long-term sustainability, fairness, and true ownership.
+Our tokenomics follow a _Proof-of-Play_ model — a system that rewards players not just for time spent, but for skill, contribution, and value added to the community. This model ensures long-term sustainability, fairness, and true ownership.
 
-### 🔁 Core Principles of Proof-to-Play:
+### 🔁 Core Principles of Proof-of-Play:
 
 - 🧠 **Skill-based rewards:** The more skilled and strategic you are, the more you earn.
 - 🎯 **Play-to-earn, not pay-to-win:** Tokens are **earned through gameplay** not farming..
