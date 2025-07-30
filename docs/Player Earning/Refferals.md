@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-sidebar_label: "🎟️Refferals"
+sidebar_label: "🎟️Referrals"
 ---
 
-# 🎟️ Refferals
+# 🎟️ Referrals
 
-### Refferals will be available inside game.
+### Referrals will be available inside game.
 
-Refferals are live in game, more detail coming soon.
+Referrals are live in game, more detail coming soon.

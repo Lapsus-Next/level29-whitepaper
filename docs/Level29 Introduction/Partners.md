@@ -15,7 +15,7 @@ We partner with industry leaders who provide us with the tools, infrastructure, 
 - **SKALE:** As our foundational blockchain platform, SKALE provides the lightning-fast, gas-free transactions crucial for our "invisible blockchain" philosophy, ensuring a smooth and frictionless experience for players.
 - **AppLayer:** As our another foundational blockchain platform, AppLayer provides the lightning-fast, 400K TPS transactions, crucial for our " lightening fast and invisible blockchain" philosophy, ensuring a smooth and frictionless experience for players.
 - **Unity:** The powerful and versatile game engine that fuels our development, enabling us to create the visually stunning and strategically deep gameplay experiences synonymous with Level29 Games.
-- [**Eidolon:**](https://docs.eidolon.gg/) A pivotal strategic and community partner, Eidolon helps truely achieve the seamless player onboarding and account management with single click. Our combined unique approach allow us to create and onboard users within seconds.
+- [**Eidolon:**](https://docs.eidolon.gg/) A pivotal strategic and community partner, Eidolon helps truly achieve the seamless player onboarding and account management with single click. Our combined unique approach allow us to create and onboard users within seconds.
 
 ## 🌎Community Collaborations
 
