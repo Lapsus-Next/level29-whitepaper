@@ -15,7 +15,7 @@ Our tokenomics follow a _Proof-of-Play_ model — a system that rewards players 
 ### 🔁 Core Principles of Proof-of-Play:
 
 - 🧠 **Skill-based rewards:** The more skilled and strategic you are, the more you earn.
-- 🎯 **Play-to-earn, not pay-to-win:** Tokens are **earned through gameplay** not farming..
+- 🎯 **Play-to-earn, not pay-to-win:** Tokens are **earned through gameplay** not farming.
 - ⚖️ **Zero premine model:** No tokens exist until players generate value in-game — ensuring a fair launch and equal access.
 - 🌍 **100% community-owned supply:** All tokens belong to the players. Devs and teams receive tokens only when the community uses them.
 - 🏆 **Engagement and impact driven:** Contributions to community building, PvP victories, creative input, and high-level achievements are rewarded.

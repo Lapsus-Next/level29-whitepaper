@@ -19,7 +19,7 @@ This isn't just about slicing ingredients and boiling noodles — it’s about s
 
 :::tip
 
-Signup for **early access** to get exclusive rewards. Signup on [Website](https://ramenrumble.com/)
+Signup for **early access** to get exclusive rewards. Sign up on [Website](https://ramenrumble.com/)
 
 :::
 
@@ -74,12 +74,12 @@ We have build seamless methods for you to download and install the game
 
 - Open Google Play Store in your Phone.
 - Search for Ramen Rumble.
-- You can install directly from Google Playe Store.(Available for Android Only Right Now)
-- Once install you can signin with our **unique 1 tap seamless signin method**.
+- You can install directly from Google Play Store.(Available for Android Only Right Now)
+- Once install you can sign upn with our **unique 1 tap seamless sign up method**.
 
 ### Onboarding
 
 - It will automatically create wallet for you and bind it with your google play account.
-- Once wallet is create, claim your free NFT's.
+- Once wallet is create, claim your free NFTs.
 - You can access your wallet info in your profile section.
-- You can access your free NFT's in Weapon section.
+- You can access your free NFTs in Weapon section.
