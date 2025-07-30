@@ -3,10 +3,19 @@ sidebar_label: "👋Welcome to Level29 Games"
 sidebar_position: 1
 ---
 
-# Welcome to Level29 Games
+# Welcome to Level29 Games Documentation
 
-At [Level29 Games](https://level29.games/), we’re creating a new standard for gaming by combining AI-driven design, immersive storytelling, and true asset ownership through blockchain.
+Welcome to the official documentation for **[Level29 Games](https://level29.games/)**. This document serves as a comprehensive overview of our company, our mission, and the games we're building.
 
-Our game design allows even web2 players to onboard easily. Our first title, **[_Ramen Rumble_](https://ramenrumble.com/)**, blends fun gameplay with innovative features like **PvP, clan-building, and monster breeding,** while allowing players to own and trade in-game assets with real value.
+## What This Document Covers
 
-We're not just making games—**we’re building a connected gaming ecosystem where players drive the economy.**
+In the sections that follow, you'll learn about:
+
+- **Who we are** and why we started Level29 Games
+- **Our core idea** and what sets us apart in the gaming space
+- **Web3/Tokenomics** and why it's needed
+- **Why our approach works**, especially in blending Web2 familiarity with Web3 potential
+- **An in-depth look at our games**, starting with **[_Ramen Rumble_](https://ramenrumble.com/)**
+
+> Welcome to the future of fun.  
+> Welcome to Level29.
