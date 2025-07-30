@@ -30,13 +30,17 @@ Beyond core technology, our strength lies in our community. We have established 
 
 ---
 
-## 📈Early Traction & Community Growth
+## 📈 Early Traction & Community Growth
 
-Our "gameplay-first" approach is already resonating with players. We are thrilled to announce:
+Our **"fun-first" and accessible Web3** approach is already gaining momentum and resonating with early supporters. Here are some key highlights that show strong initial traction:
 
-- **4,000+ Pre-registrations:** Our website pre-registration campaign for Ramen Rumble has surpassed **4,000 sign-ups**—a strong early indicator of significant player interest and excitement for our flagship title.
+- **4,000+ Pre-registrations:** Our pre-registration campaign for [_Ramen Rumble_](https://ramenrumble.com/) has already surpassed 4,000 sign-ups—demonstrating solid interest and anticipation for our debut title.
+- **6,000+ Twitter Followers:** Our social presence is growing rapidly, with an engaged and expanding audience of over 6,000 followers on [Twitter (X)](https://twitter.com/ramenrumblegame).
+- **1,500+ Discord Members:** Our community Discord is home to over 1,500 passionate members actively participating in discussions, feedback sessions, and early access events.
 
-This early traction validates our vision for accessible, fun, and rewarding Web3 gaming experiences, and we are committed to nurturing this growing community.
+This early traction not only validates our core vision—**to make Web3 games feel as smooth and fun as traditional Web2 games**—but also shows that there’s a real appetite for player-owned, community-driven gaming experiences.
+
+We’re deeply grateful for this support and are committed to nurturing and growing this community as we build toward launch.
 
 ---
 
