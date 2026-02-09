@@ -9,11 +9,6 @@ const config: Config = {
   tagline: "Making Next Gen of Gaming Fun and Accessible",
   favicon: "img/favicon.ico",
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
-
   // Set the production url of your site here
   url: "https://level29-whitepaper.pages.dev/",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -74,8 +69,8 @@ const config: Config = {
       "posthog-docusaurus",
       {
         apiKey: "phc_FRfVXejYPJSYRAwV7c58QFrraLgGf2hWPuwlWM2FG6N",
-        appUrl: "https://us.i.posthog.com", // optional, defaults to "https://us.i.posthog.com"
-        enableInDevelopment: false, // optional
+        appUrl: "https://us.i.posthog.com",
+        enableInDevelopment: false,
       },
     ],
   ],
@@ -83,8 +78,8 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     colorMode: {
-      defaultMode: "light",
-      disableSwitch: false,
+      defaultMode: "dark",
+      disableSwitch: true,
       respectPrefersColorScheme: false,
     },
 
@@ -94,6 +89,7 @@ const config: Config = {
       logo: {
         alt: "Logo",
         src: "img/lvl29_logo.png",
+        srcDark: "img/lvl29_logo.png",
       },
       items: [
         {
